@@ -1,0 +1,50 @@
+h1 {
+	text-align: center
+	color: #7109AA;
+}
+body {
+    	color: #CE0070;
+	background-color: #FF0000;
+   }
+p {
+	text-align: center;
+}
+*{
+	margin: 10px;
+	padding: 10px;
+}
+main{
+	background-color: #224344
+}
+.photo{
+	width: 200px;
+	height: 100px;
+	margin: 10px;
+	background-position: center;
+	background-size: conver;
+	transition: all 0.5s ease;
+}
+.photo:hover{
+	transform: rotate(10deg) scale(0.7);
+}
+.photo1{
+	background-image: url(Images/Dio2.jpg);
+}
+.photo2{
+	background-image: url(Images/images1.jpeg);
+}
+.photo3{
+	background-image: url(Images/images.jpeg);
+}
+.photo4{
+	background-image: url(Images/Bruno.jpg);
+}
+.photo5{
+	background-image: url(Images/Jorno.jpg);
+}
+.photo6{
+	background-image: url(Images/Dopio.jpg);
+}
+.photo6{
+	background-image: url(Images/Diavolo1.jpg);
+}
